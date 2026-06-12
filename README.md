@@ -14,12 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Studying **Computer Systems Engineering** at **NED UET, Karachi**
-- 💻 Love building things with **C/C++, HTML & CSS**
-- 🚀 Passionate about **Software Development & Technology**
-- 🌱 Always **learning and growing** as a developer
-- 🤝 Open to **collaborating** on interesting projects
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/muhammadahsan125)**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&width=500&lines=🎓+CSE+Student+%40+NED+UET+Karachi;💻+C+%2F+C%2B%2B+%2F+HTML+%2F+CSS;🚀+Passionate+About+Software+Development;🌱+Always+Learning+%26+Growing;🤝+Open+To+Collaborate!)
 
 ---
 
