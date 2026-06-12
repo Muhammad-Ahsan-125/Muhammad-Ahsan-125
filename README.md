@@ -1,46 +1,65 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahsan</h1>
+<div align="center">
 
-<h3 align="center">Computer Systems Engineer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Ahsan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Computer%20Systems%20Engineer&descAlignY=55&descColor=a78bfa&animation=fadeIn" width="100%"/>
+
+---
+
+### 👋 Hi, I'm Muhammad Ahsan
+
+**Computer Systems Engineering Student @ NED University of Engineering & Technology**
+
+*Passionate about Technology and Software Development*
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 Studying **Computer Systems Engineering** at **NED UET, Karachi**
+- 💻 Love building things with **C/C++, HTML & CSS**
+- 🚀 Passionate about **Software Development & Technology**
+- 🌱 Always **learning and growing** as a developer
+- 🤝 Open to **collaborating** on interesting projects
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/muhammadahsan125)**
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Systems+Engineer;C%2FC%2B%2B+Developer;Frontend+Developer;Always+Learning+New+Things" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 📊 GitHub Stats
 
-- 🎓 Computer Systems Engineering Student
-- 🌱 At NED University OF Engineering & Technology
-- 💻 Passionate About Technology And Software Development
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-125&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahsan-125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ahsan-125&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa"/>
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,github,vscode" />
-</p>
-
-## 📊 GitHub Stats
+### 🌐 Connect With Me
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-125&show_icons=true&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/muhammadahsan125">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Muhammad-Ahsan-125">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ahsan-125&theme=tokyonight" />
-</p>
+---
 
-## 📈 Contribution Graph
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahsan-125&theme=tokyo-night)
-## 🌐 Connect With Me
-
-<a href="www.linkedin.com/in/muhammadahsan125">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-## 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Ahsan-125&label=Profile%20Views&color=blue&style=flat" />
+</div>
