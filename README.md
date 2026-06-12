@@ -47,6 +47,13 @@
 </p>
 
 ---
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Muhammad-Ahsan-125/Muhammad-Ahsan-125/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+---
 
 ### 🌐 Connect With Me
 
