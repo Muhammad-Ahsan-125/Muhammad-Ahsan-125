@@ -11,7 +11,7 @@
 <tr>
 <td valign="middle" width="60%">
 
-- 🎓 **CSE Student** @ NED UET, Karachi
+- 🎓 **CIS Student** @ NEDUET, Karachi
 - 💻 **C / C++ / HTML / CSS**
 - 🚀 **Passionate** about Software Development
 - 🌱 Always **Learning & Growing**
