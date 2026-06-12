@@ -13,7 +13,20 @@
 ---
 
 ### 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+**👤 Name:** Muhammad Ahsan
+**🎓 Degree:** Computer Systems Engineering
+**🏫 University:** NED UET, Karachi
+**💻 Skills:** C / C++ / HTML / CSS
+**🚀 Passion:** Software Development & Technology
+**🌱 Currently:** Learning & Growing Every Day
+**🤝 Looking For:** Collaborations & Opportunities
+**📫 Contact:** [LinkedIn](https://www.linkedin.com/in/muhammadahsan125)
+
+<br clear="right"/>
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 ---
 
