@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&width=500&lines=🎓+CSE+Student+%40+NED+UET+Karachi;💻+C+%2F+C%2B%2B+%2F+HTML+%2F+CSS;🚀+Passionate+About+Software+Development;🌱+Always+Learning+%26+Growing;🤝+Open+To+Collaborate!)
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ---
 
