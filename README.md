@@ -7,16 +7,19 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🎓 **CIS Student** @ NEDUET, Karachi
+<br/>
+
+- 🎓 **CSE Student** @ NED UET, Karachi
 - 💻 **C / C++ / HTML / CSS**
 - 🚀 **Passionate** about Software Development
 - 🌱 Always **Learning & Growing**
 - 📫 [LinkedIn](https://www.linkedin.com/in/muhammadahsan125)
 
-<br clear="right"/>
+<br/><br/><br/>
 
+<br clear="right"/>
 ---
 
 ### 🛠️ Tech Stack
