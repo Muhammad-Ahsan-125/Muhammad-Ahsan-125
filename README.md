@@ -32,10 +32,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ahsan-125&theme=tokyonight" />
 </p>
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muhammad-Ahsan-125&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahsan-125&theme=tokyo-night)
 ## 🌐 Connect With Me
 
 <a href="www.linkedin.com/in/muhammadahsan125">
