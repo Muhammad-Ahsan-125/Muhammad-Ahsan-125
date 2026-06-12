@@ -9,15 +9,24 @@
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<br/>
+<table>
+<tr>
+<td valign="middle" width="60%">
 
-- 🎓 **CIS Student** @ NED UET, Karachi
+- 🎓 **CSE Student** @ NED UET, Karachi
 - 💻 **C / C++ / HTML / CSS**
 - 🚀 **Passionate** about Software Development
 - 🌱 Always **Learning & Growing**
 - 📫 [LinkedIn](https://www.linkedin.com/in/muhammadahsan125)
 
-<br/><br/><br/>
+</td>
+<td valign="middle" width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 <br clear="right"/>
