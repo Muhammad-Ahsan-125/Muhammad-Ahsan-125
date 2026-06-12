@@ -34,9 +34,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ahsan-125&theme=tokyonight" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muhammad-Ahsan-125&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌐 Connect With Me
 
