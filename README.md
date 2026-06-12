@@ -12,8 +12,7 @@
 
 - 🎓 Computer Systems Engineering Student
 - 🌱 At NED University OF Engineering & Technology
-- 💻 Interested in Software Development
-- 🚀 Building projects in C and C++
+- 💻 Passionate About Technology And Software Development
 
 ---
 
@@ -22,3 +21,29 @@
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,github,vscode" />
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-125&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ahsan-125&theme=tokyonight" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ahsan-125&theme=tokyonight" />
+</p>
+
+## 🌐 Connect With Me
+
+<a href="www.linkedin.com/in/muhammadahsan125">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Ahsan-125&label=Profile%20Views&color=blue&style=flat" />
