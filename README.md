@@ -16,7 +16,7 @@
 
 I am a **Computer Systems Engineering** student at **NED University of Engineering & Technology** with a passion for building responsive, accessible, and user-friendly web applications.
 
-I enjoy writing clean, maintainable code and continuously improving my skills in frontend development and software engineering.
+I enjoy writing clean, maintainable code and continuously improving my skills in frontend development.
 
 ---
 
@@ -54,22 +54,11 @@ I enjoy writing clean, maintainable code and continuously improving my skills in
 
 </div>
 
----
-
-# Featured Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Portfolio Website** | Responsive personal portfolio showcasing projects and skills. | HTML, CSS, JavaScript |
-| **Coaching Center Management System** | Coaching center website with student registration, admin dashboard, and Google Sheets integration using Google Apps Script. | HTML, CSS, JavaScript, Google Apps Script |
-
----
-
 # Currently Learning
 
 - Modern JavaScript (ES6+)
 - Responsive Web Design
-- Software Engineering Principles
+- Object-Oriented Programming Principles
 - Git & GitHub Best Practices
 
 ---
