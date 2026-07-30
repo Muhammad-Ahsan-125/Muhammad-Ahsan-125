@@ -68,7 +68,7 @@ I enjoy writing clean, maintainable code and continuously improving my skills in
 <div align="center">
 
 <a href="https://www.linkedin.com/in/muhammadahsan125">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.cleanpng.com/png-linkedin-logo-blue-circular-icon-qyrmj0/)"/>
 </a>
 
 <a href="https://github.com/Muhammad-Ahsan-125">
