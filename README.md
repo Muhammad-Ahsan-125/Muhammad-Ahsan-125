@@ -1,55 +1,99 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Ahsan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Computer%20Systems%20Engineer&descAlignY=55&descColor=a78bfa&animation=fadeIn" width="100%"/>
-<br/>
-### 🧑‍💻 About Me
-<table>
-<tr>
-<td valign="middle" width="60%">
-- 🎓 **CIS Student** @ NEDUET, Karachi
-- 💻 **C / C++ / HTML / CSS**
-- 🚀 **Passionate** about Software Development
-- 🌱 Always **Learning & Growing**
-- 📫 [LinkedIn](https://www.linkedin.com/in/muhammadahsan125)
-</td>
-<td valign="middle" width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-</td>
-</tr>
-</table>
-<br clear="right"/>
-<br clear="right"/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
----
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-125&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahsan-125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ahsan-125&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa"/>
-</p>
----
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Muhammad-Ahsan-125/Muhammad-Ahsan-125/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
----
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammadahsan125">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Muhammad-Ahsan-125">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
----
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1E3A8A,100:3B82F6&text=Muhammad%20Ahsan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Systems%20Engineering%20Student&descAlignY=58&descColor=CBD5E1"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Systems+Engineering+Student;Frontend+Web+Developer;Building+Responsive+Web+Applications;HTML+%7C+CSS+%7C+JavaScript;Always+Learning+New+Technologies"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Ahsan-125&style=for-the-badge&color=2563EB"/>
+
 </div>
+
+---
+
+# About
+
+I am a **Computer Systems Engineering** student at **NED University of Engineering & Technology** with a passion for building responsive, accessible, and user-friendly web applications.
+
+I enjoy writing clean, maintainable code and continuously improving my skills in frontend development and software engineering.
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,vscode,github&theme=dark"/>
+
+</div>
+
+---
+
+# GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-125&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahsan-125&layout=compact&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ahsan-125&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahsan-125&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **Portfolio Website** | Responsive personal portfolio showcasing projects and skills. | HTML, CSS, JavaScript |
+| **Coaching Center Management System** | Coaching center website with student registration, admin dashboard, and Google Sheets integration using Google Apps Script. | HTML, CSS, JavaScript, Google Apps Script |
+
+---
+
+# Currently Learning
+
+- Modern JavaScript (ES6+)
+- Responsive Web Design
+- Software Engineering Principles
+- Git & GitHub Best Practices
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammadahsan125">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Muhammad-Ahsan-125">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Clean code. Practical solutions. Continuous learning."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:3B82F6,50:1E3A8A,100:0F172A"/>
